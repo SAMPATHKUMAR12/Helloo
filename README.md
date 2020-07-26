@@ -1,6 +1,6 @@
 # Helloo
-Hello programming
-i am batman and i am very rich.
+
+.i am sampath and i am thor.
 superman but i am powerful 💪.
 aquaman i am king.
-flash i am the fastest.
+
